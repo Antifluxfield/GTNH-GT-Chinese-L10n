@@ -5673,7 +5673,7 @@ languagefile {
     S:TileEntity_DESCRIPTION_840_Index_4=4x输出总线(任意顶层或底层的边缘)
     S:TileEntity_DESCRIPTION_840_Index_5=1x维护仓(任意顶层或底层的边缘)
     S:TileEntity_DESCRIPTION_840_Index_6=1x能源仓(任意顶层或底层的边缘)
-    S:TileEntity_DESCRIPTION_840_Index_7=18x筛选格栅机械方块(顶层余中间层中部3x3区域)
+    S:TileEntity_DESCRIPTION_840_Index_7=18x筛选格栅机械方块(顶层与中间层中部3x3区域)
     S:TileEntity_DESCRIPTION_840_Index_8=剩余方块为筛选机机械方块(至少47个！)
     S:TileEntity_DESCRIPTION_840_Index_9=添加者： §2Alkalus §7- §c[GT++]
     S:TileEntity_DESCRIPTION_849_Index_0=工业热力精炼厂的控制器方块
