@@ -509,8 +509,8 @@ languagefile {
     S:Material.dinitrogentetroxide=四氧化二氮
     S:Material.dolomite=白云石
     S:Material.draconic=Draconic
-    S:Material.draconium=龙锭
-    S:Material.draconiumawakened=觉醒龙锭
+    S:Material.draconium=龙
+    S:Material.draconiumawakened=觉醒龙
     S:Material.drulloy=Drulloy
     S:Material.duralumin=硬铝
     S:Material.duranium=铿铀
@@ -533,7 +533,7 @@ languagefile {
     S:Material.endstone=末地石
     S:Material.energeticalloy=充能合金
     S:Material.energized=Energized
-    S:Material.enhancedgalgadorian=强化混合晶锭
+    S:Material.enhancedgalgadorian=强化混合晶
     S:Material.enrichedcopper=富集铜
     S:Material.epichlorohydrin=环氧氯丙烷
     S:Material.epidote=绿帘石
@@ -571,7 +571,7 @@ languagefile {
     S:Material.gabbro=辉长岩
     S:Material.gadolinium=钆
     S:Material.galena=方铅矿
-    S:Material.galgadorian=混合晶锭
+    S:Material.galgadorian=混合晶
     S:Material.gallium=镓
     S:Material.galliumarsenide=砷化镓
     S:Material.garnetred=红石榴石
