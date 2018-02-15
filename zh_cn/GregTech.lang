@@ -865,7 +865,7 @@ languagefile {
     S:Material.rubracium=褐铜
     S:Material.ruby=红宝石
     S:Material.rutile=金红石
-    S:Material.salt=岩
+    S:Material.salt=盐
     S:Material.saltpeter=硝石
     S:Material.saltwater=盐水
     S:Material.samarium=钐
@@ -18430,7 +18430,7 @@ languagefile {
     S:gt.metaitem.01.13337.tooltip=Fe₅₀C(FeMa)₃
     S:gt.metaitem.01.13338.name=双重%material锭
     S:gt.metaitem.01.13338.tooltip=Fe₉((COH)₃Ma)₉Au
-    S:gt.metaitem.01.13339.name=Double %material
+    S:gt.metaitem.01.13339.name=双重%material
     S:gt.metaitem.01.13339.tooltip=Fe₅₀CMa
     S:gt.metaitem.01.1334.name=小堆%material粉
     S:gt.metaitem.01.1334.tooltip=NiAuAgCu₃(Fe₅₀C)₃
@@ -18944,7 +18944,7 @@ languagefile {
     S:gt.metaitem.01.14337.tooltip=Fe₅₀C(FeMa)₃
     S:gt.metaitem.01.14338.name=三重%material锭
     S:gt.metaitem.01.14338.tooltip=Fe₉((COH)₃Ma)₉Au
-    S:gt.metaitem.01.14339.name=Triple %material
+    S:gt.metaitem.01.14339.name=三重%material
     S:gt.metaitem.01.14339.tooltip=Fe₅₀CMa
     S:gt.metaitem.01.14340.name=三重%material锭
     S:gt.metaitem.01.14340.tooltip=SpFe
@@ -19414,7 +19414,7 @@ languagefile {
     S:gt.metaitem.01.15337.tooltip=Fe₅₀C(FeMa)₃
     S:gt.metaitem.01.15338.name=四重%material锭
     S:gt.metaitem.01.15338.tooltip=Fe₉((COH)₃Ma)₉Au
-    S:gt.metaitem.01.15339.name=Quadruple %material
+    S:gt.metaitem.01.15339.name=四重%material
     S:gt.metaitem.01.15339.tooltip=Fe₅₀CMa
     S:gt.metaitem.01.1534.name=小堆%material粉
     S:gt.metaitem.01.1534.tooltip=Ca₃(PO₄)₂
@@ -19862,7 +19862,7 @@ languagefile {
     S:gt.metaitem.01.16337.tooltip=Fe₅₀C(FeMa)₃
     S:gt.metaitem.01.16338.name=五重%material锭
     S:gt.metaitem.01.16338.tooltip=Fe₉((COH)₃Ma)₉Au
-    S:gt.metaitem.01.16339.name=Quintuple %material
+    S:gt.metaitem.01.16339.name=五重%material
     S:gt.metaitem.01.16339.tooltip=Fe₅₀CMa
     S:gt.metaitem.01.1634.name=小堆%material粉
     S:gt.metaitem.01.1634.tooltip=C₈H₈(C₄H₆)₃
